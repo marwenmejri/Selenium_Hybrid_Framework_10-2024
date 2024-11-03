@@ -1,0 +1,2 @@
+[32mINFO    [0m custom_logger1:test_login.py:59 ************ test_negative_username STARTED ************
+[32mINFO    [0m custom_logger1:test_login.py:73 ************ test_negative_username PASSED ************
